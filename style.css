@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+   font-family: Times New Roman;
 }
 header {
     border: 10px solid black;
@@ -23,13 +23,13 @@ h1 {
   margin: 10px;
   padding: 10px;
   text-align: center;
-  font-family: Georgia;
 }
 h1 h2 {
     border: 10px solid #8B0000; 
     border-radius: 100px; 
     margin: 10px;
-    padding: 10px;   
+    padding: 10px;  
+
 }
 footer {
     border: 10px solid #8B0000; 
@@ -49,6 +49,7 @@ nav {
     border: 10px solid #8B0000; 
     border-radius: 100px;
     background-color: #FA8072;
+
 }
 nav a {
     border: 5px solid #8B0000; 
@@ -60,8 +61,23 @@ nav a {
     text-align: right;
     margin: 18px;
 }
-.price{
+
+p img {
     border: 10px solid #8B0000; 
     border-radius: 100px;
+
+}
+ p {
+    border: 10px solid #8B0000; 
+    border-radius: 100px; 
+    padding: 20px;
     background-color: #FA8072;
+    color: black;
+}
+h2 {
+        border: 10px solid #8B0000; 
+    border-radius: 100px; 
+    padding: 20px;
+    background-color: #FA8072;
+    color: black;
 }
